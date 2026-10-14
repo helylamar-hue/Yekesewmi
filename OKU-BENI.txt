@@ -1,0 +1,11 @@
+Yekesewme - ana ekrana uygulama olarak ekleme
+
+1) Bu klasörün içindekileri (index.html, manifest.webmanifest, sw.js, icon-*.png) ücretsiz bir HTTPS barındırmaya yükle:
+   - Netlify Drop: app.netlify.com/drop adresine klasörü sürükle-bırak
+   - ya da GitHub Pages / Cloudflare Pages
+2) Sana verilen adresi tabletinde aç.
+3) iPad (Safari): Paylaş simgesi > Ana Ekrana Ekle
+   Android (Chrome): üç nokta menüsü > Uygulamayı yükle / Ana ekrana ekle
+4) Ana ekrandaki Yekesewme simgesinden aç. Tam ekran uygulama gibi çalışır, internet olmadan da açılır.
+
+Not: Veriler tabletteki tarayıcı hafızasında (localStorage) tutulur. Başka cihazlarla eşitlenmez.
